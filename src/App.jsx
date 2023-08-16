@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       
-      <h1>Christo Exercices React App pour les nulles</h1>
+      <h1>Christo Exercices React App for test cases</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
